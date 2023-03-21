@@ -14,6 +14,6 @@ THEN that note appears in the right-hand column
 I can click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Application URL -  http://localhost:3000
+## Heroku URL -  https://note-taker-aboubacar.herokuapp.com/
 
 ## GitHub Link - https://github.com/Aboubacar7/Note-Taker
